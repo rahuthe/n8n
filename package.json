@@ -1,12 +1,11 @@
 {
-  "name": "n8n-render-deploy",
+  "name": "n8n-render",
   "version": "1.0.0",
-  "description": "n8n deployment for Render (Node Runtime)",
-  "main": "index.js",
+  "description": "n8n deployment on Render",
   "scripts": {
     "start": "n8n start"
   },
   "dependencies": {
-    "n8n": "^1.75.0"
+    "n8n": "latest"
   }
 }
